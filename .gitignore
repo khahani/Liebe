@@ -14,7 +14,3 @@
 .cxx
 local.properties
 /.idea
-
-# Project exclude paths
-/app/
-/gradle/
