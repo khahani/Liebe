@@ -25,7 +25,7 @@ const val LOCATION_REFRESH_DISTANCE = 500f // 500 meters to update
 
 class MainActivity : ComponentActivity() {
     private val mLocationListener: LocationListener = LocationListener {
-        val location = it
+
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
